@@ -27,8 +27,8 @@ Our open-source work lives here — start with
 
 | Project | Description |
 |---------|-------------|
-| 🧩 **[featurizer](https://github.com/ccd-ia/featurizer)** · `Apache-2.0` | Automated feature engineering for temporal data, PostgreSQL-native: Deep Feature Synthesis compiled to pure SQL. |
-| 🧪 **[triage-pg](https://github.com/ccd-ia/triage-pg)** | PostgreSQL-native, simplified fork of DSSG triage for temporal ML on tabular public-policy data (teaching + consulting). |
+| **[featurizer](https://github.com/ccd-ia/featurizer)** · `Apache-2.0` | Automated feature engineering for temporal data, PostgreSQL-native: Deep Feature Synthesis compiled to pure SQL. |
+| **[triage-pg](https://github.com/ccd-ia/triage-pg)** | PostgreSQL-native, simplified fork of DSSG triage for temporal ML on tabular public-policy data (teaching + consulting). |
 
 ## Focus areas
 
