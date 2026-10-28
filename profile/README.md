@@ -1,9 +1,7 @@
-# Centro de Ciencia de Datos e Inteligencia Artificial
+# Cofradía de Ciencia de Datos
 
 **Data science, machine learning and operations research for public policy and
 social good** across Mexico and Latin America.
-
-> Escuela de Gobierno y Transformación Pública · Tecnológico de Monterrey
 
 Our open-source work lives here — start with
 **[featurizer](https://github.com/ccd-ia/featurizer)**.
