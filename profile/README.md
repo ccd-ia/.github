@@ -1,4 +1,4 @@
-# Cofradía de Ciencia de Datos
+# Cofradía de Ciencia de Datos e Inteligencia Artificial
 
 **Data science, machine learning and operations research for public policy and
 social good** across Mexico and Latin America.
